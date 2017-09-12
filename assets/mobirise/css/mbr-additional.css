@@ -1,6 +1,41 @@
-#slider2-z H1 {
-  font-size: 25px;
+#header4-a P {
+  text-align: left;
 }
-#slider2-z P {
-  font-size: 15px;
+#header4-a H1 {
+  text-align: left;
+}
+#menu-1c .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-1k .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1k.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1k .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#slider2-1l P {
+  font-size: 16px;
+  text-align: center;
+  color: #ffffff;
+}
+#slider2-1l H1 {
+  font-size: 30px;
+}
+#menu-1m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-1m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-1m .mbr-navbar__hamburger {
+  color: #ffffff;
 }
