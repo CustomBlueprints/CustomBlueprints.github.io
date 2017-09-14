@@ -30,6 +30,9 @@
 #slider2-1l H1 {
   font-size: 30px;
 }
+#features1-1g .mbr-section__col .mbr-header__text {
+  text-align: center;
+}
 #menu-1m .mbr-brand__name {
   font-size: 16px;
 }
